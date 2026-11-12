@@ -28,14 +28,14 @@ A web-based FAQ assistant built with Python and Flask. Visitors type a question,
 ## Project Structure
 
 faq-chatbot/
-├── app.py # Flask server and /chat endpoint
-├── chatbot.py # Preprocessing, embeddings, and matching
-├── faqs.json # Questions and answers
+├── app.py           # Flask server and /chat endpoint
+├── chatbot.py       # Preprocessing, embeddings, and matching
+├── faqs.json        # Questions and answers
+├── .gitignore       # Excludes venv/ and __pycache__/
 └── static/
-├── index.html # Chat page
-├── style.css # Styling
-└── script.js # Chat logic in the browser
-
+    ├── index.html   # Chat page
+    ├── style.css    # Chat styling
+    └── script.js    # Chat logic in the browser
 
 ## Getting Started
 
