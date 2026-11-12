@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Hello",
+    "answer": "Hi! How may I assist you today?"
+  },
+  {
+    "question": "Thank you for your help",
+    "answer": "You are welcome. If you have any other questions about Example Bank, feel free to ask anytime."
+  },
+  {
+    "question": "Goodbye",
+    "answer": "Goodbye, and thank you for banking with Example Bank. Have a great day."
+  },
+  {
+    "question": "How do I open a savings account?",
+    "answer": "You can open a savings account in the Example Bank app under Accounts, or at any branch. You will need a valid national ID and a phone number that matches your identity record."
+  },
+  {
+    "question": "What is the minimum balance required to open an account?",
+    "answer": "The minimum opening deposit for a savings account is 1,000 units of local currency. Check the Fees section of the app for the current requirement."
+  },
+  {
+    "question": "Do I need to keep a minimum balance after opening my account?",
+    "answer": "Some account types require a minimum monthly balance to avoid a maintenance fee. The exact amount is shown on your account details page."
+  },
+  {
+    "question": "Can I open a joint account with someone else?",
+    "answer": "Yes. Joint accounts can be opened at any branch by two account holders, each with a valid national ID. Both holders must approve large withdrawals, as set out in the joint account agreement."
+  },
+  {
+    "question": "What interest do I earn on my savings account?",
+    "answer": "Savings accounts earn a variable annual interest rate, which is shown on the Accounts page. Interest is credited monthly and rates can change with market conditions."
+  },
+  {
+    "question": "How do I check my account balance?",
+    "answer": "Log in to the app and your balance appears on the home screen. You can also see it under Accounts, or by calling customer support after identity verification."
+  },
+  {
+    "question": "Why does my available balance differ from my current balance?",
+    "answer": "The available balance excludes pending transactions and holds, such as card authorizations or recent deposits that have not cleared yet. It updates once those transactions are settled."
+  },
+  {
+    "question": "How do I get a statement for my account?",
+    "answer": "Go to Accounts, select the account, and choose Statements. You can download monthly statements in PDF format for up to the last five years."
+  },
+  {
+    "question": "Can I receive my statements by email instead of downloading them?",
+    "answer": "Yes. Go to Settings, then Notifications, and turn on Email Statements. Statements will be sent to your registered email address at the end of each month."
+  },
+  {
+    "question": "I forgot my login or password. How do I reset it?",
+    "answer": "Select Forgot Password on the login screen. We will send a verification code to your registered phone number so you can create a new password."
+  },
+  {
+    "question": "I did not receive the verification code. What should I do?",
+    "answer": "Wait two minutes, then check that your phone has signal. If the code still does not arrive, choose Resend Code. Codes expire after 10 minutes, so request a new one if the old one has expired."
+  },
+  {
+    "question": "My account is locked after too many login attempts. What should I do?",
+    "answer": "For your security, accounts lock after five failed login attempts. The lock lasts 30 minutes. You can also unlock it immediately by verifying your identity through customer support."
+  },
+  {
+    "question": "The app will not open or keeps crashing. What should I do?",
+    "answer": "Close the app completely and reopen it. Make sure you have the latest version from your app store. If the problem continues, restart your phone and try again, or use online banking in your browser."
+  },
+  {
+    "question": "Can I log in on more than one device?",
+    "answer": "Yes, you can log in on up to two devices at the same time. If you do not recognize a device, remove it under Security, then Active Devices, and change your password."
+  },
+  {
+    "question": "How do I turn on two-factor authentication?",
+    "answer": "Go to Security, then Two-Factor Authentication, and choose Turn On. You will receive a code by SMS or through an authenticator app each time you log in from a new device."
+  },
+  {
+    "question": "How do I change the phone number linked to my account?",
+    "answer": "Go to Profile, then Contact Details, and choose Change Phone Number. You will need to confirm the change with a code sent to your current number and your registered email."
+  },
+  {
+    "question": "How do I update my email address?",
+    "answer": "Go to Profile, then Contact Details, and choose Change Email. A confirmation link will be sent to the new address. The change takes effect only after you click the link."
+  },
+  {
+    "question": "How long does a transfer within Example Bank take?",
+    "answer": "Transfers between Example Bank accounts are usually instant, although they can take a few minutes during scheduled maintenance windows."
+  },
+  {
+    "question": "How long does a transfer to another bank take?",
+    "answer": "Transfers to other banks usually arrive within one business day. Transfers sent after the daily cut-off time are processed on the next business day."
+  },
+  {
+    "question": "Can I send money to another country?",
+    "answer": "Yes, international transfers are available under Payments, then International. You will need the recipient's full name, bank name, account number, and SWIFT code. Fees and exchange rates are shown before you confirm."
+  },
+  {
+    "question": "What is the daily transfer limit?",
+    "answer": "The default daily transfer limit is 50,000 units of local currency. You can request a higher limit by contacting support, subject to verification."
+  },
+  {
+    "question": "My transfer failed but the money was deducted. What should I do?",
+    "answer": "Failed transfers are usually reversed within three business days. Check the transaction status under Activity. If the amount has not returned after three business days, contact support with the transaction reference number."
+  },
+  {
+    "question": "I sent money to the wrong account. Can I get it back?",
+    "answer": "Contact support immediately with the transaction details. We can contact the receiving bank, but we cannot force a return, so recovery depends on the recipient cooperating."
+  },
+  {
+    "question": "Can I cancel a transfer after sending it?",
+    "answer": "Scheduled transfers can be cancelled under Scheduled Payments before the processing time. Transfers that have already been processed cannot be cancelled in the app."
+  },
+  {
+    "question": "How do I set up a recurring payment?",
+    "answer": "Go to Payments, choose Recurring, enter the recipient and amount, then select the frequency and start date. You can edit or cancel it at any time."
+  },
+  {
+    "question": "How do I pay my bills through the app?",
+    "answer": "Go to Payments, then Bill Pay, and choose the biller from the list. Enter your customer reference number, confirm the amount, and submit. Most bills are updated within one business day."
+  },
+  {
+    "question": "Why is my bill payment still showing as pending?",
+    "answer": "Bill payments can take up to one business day to appear as complete. If the payment is still pending after that, check the reference number under Activity and contact support with it."
+  },
+  {
+    "question": "How do I request a loan?",
+    "answer": "Go to Loans, choose the loan type, and enter the amount and repayment period. The app will show your eligibility and estimated monthly repayment. Final approval depends on a credit review."
+  },
+  {
+    "question": "How do I check the status of my loan application?",
+    "answer": "Go to Loans, then Applications, and select your application to see its current stage. Applications are usually reviewed within five business days, and we will notify you by SMS once a decision is made."
+  },
+  {
+    "question": "How do I request a new debit card?",
+    "answer": "Go to Cards and choose Request New Card. Replacement cards are delivered to your registered address within five to seven business days."
+  },
+  {
+    "question": "My card was lost or stolen. What should I do?",
+    "answer": "Block the card immediately under Cards in the app, then call customer support to request a replacement. Blocking the card stops any further transactions."
+  },
+  {
+    "question": "How do I unblock a card I blocked by mistake?",
+    "answer": "Go to Cards, select the blocked card, and choose Unblock Card. If the option is not available, contact support to reactivate it after verification."
+  },
+  {
+    "question": "Why was my card payment declined?",
+    "answer": "Payments can be declined for several reasons: insufficient available balance, a daily spending limit, an incorrect PIN or expiry date, the merchant being blocked, or a suspicious transaction flag. Check the decline reason under Activity."
+  },
+  {
+    "question": "My card does not work at the ATM. Why?",
+    "answer": "Check that the card is not blocked or expired, that you are using the correct PIN, and that the ATM supports your card network. Daily ATM withdrawal limits also apply. If the card is swallowed by an ATM, contact the bank that owns the machine and then call our support line."
+  },
+  {
+    "question": "What is the daily ATM withdrawal limit?",
+    "answer": "The default daily ATM withdrawal limit is 20,000 units of local currency. You can view or change your limit under Cards, then Limits, subject to verification."
+  },
+  {
+    "question": "How do I change my card PIN?",
+    "answer": "Go to Cards, select your card, and choose Change PIN. You can also change it at any ATM that supports PIN changes. Never share your PIN with anyone."
+  },
+  {
+    "question": "I forgot my card PIN. What should I do?",
+    "answer": "Select Forgot PIN under Cards in the app. You will need to verify your identity with a code sent to your registered phone number. For security, we cannot tell you your existing PIN."
+  },
+  {
+    "question": "My card has expired. What should I do?",
+    "answer": "A replacement card is sent automatically before expiry, usually about one month beforehand. If you have not received it, go to Cards and choose Request New Card."
+  },
+  {
+    "question": "Can I use my card for online shopping?",
+    "answer": "Yes, cards can be used for online payments. For extra protection, turn on Online Payments under Cards, then Settings. You can also set a separate limit for online transactions."
+  },
+  {
+    "question": "How do I turn my card on or off for a while?",
+    "answer": "Go to Cards, select the card, and use the Freeze Card switch. A frozen card declines new transactions, and you can unfreeze it at any time."
+  },
+  {
+    "question": "Why was I charged a foreign transaction fee?",
+    "answer": "Foreign transaction fees apply to purchases made in a different currency or at a merchant outside the country. The fee and exchange rate are shown on the transaction under Activity."
+  },
+  {
+    "question": "How do I report an unknown transaction?",
+    "answer": "Check the merchant name and amount under Activity first, as it may be a subscription or a different store name. If you still do not recognize it, report it through Activity, then Dispute Transaction, within 60 days. If someone is using your card, block it immediately under Cards."
+  },
+  {
+    "question": "I see a transaction I do not recognize. Someone used my card without permission or made a payment I did not authorize. What should I do?",
+    "answer": "Check the merchant name and amount under Activity first, as it may be a subscription or a different store name. If you still do not recognize it, report it through Activity, then Dispute Transaction, within 60 days. If someone is using your card, block it immediately under Cards."
+  },
+  {
+    "question": "How do I dispute a charge?",
+    "answer": "Open the transaction under Activity and select Dispute. Explain the issue and attach any receipts. Disputes are usually reviewed within 10 business days, and you may receive a temporary credit while it is investigated."
+  },
+  {
+    "question": "A merchant charged me twice for the same purchase. What should I do?",
+    "answer": "Open both transactions under Activity and compare the reference numbers. If the second charge is a duplicate, select Dispute on that transaction and attach the receipt. Duplicate charges are usually refunded within 10 business days."
+  },
+  {
+    "question": "I was charged for a subscription I cancelled. What can I do?",
+    "answer": "First, cancel the subscription directly with the merchant and keep the confirmation. Then open the charge under Activity and select Dispute, attaching the cancellation confirmation."
+  },
+  {
+    "question": "Are there any fees for using the app?",
+    "answer": "Transfers within Example Bank and checking your balance are free. Fees for other services, such as international transfers, cheque books, and account maintenance, are listed on the Fees page."
+  },
+  {
+    "question": "Is there a late fee on my loan payments?",
+    "answer": "Yes, a late fee applies if a loan installment is not paid by its due date. The fee amount and the grace period are listed in your loan agreement under Loans, then Details."
+  },
+  {
+    "question": "Can I use Example Bank outside the country?",
+    "answer": "Yes, your card works internationally. Foreign transaction fees and currency conversion rates apply and are shown before you confirm a payment. Notify us before travelling if you want to avoid temporary blocks."
+  },
+  {
+    "question": "I suspect someone is accessing my account. What should I do?",
+    "answer": "Change your password immediately, then block your cards under Cards. Contact customer support right away so we can review recent logins and secure your account. We will never ask for your full password or PIN."
+  },
+  {
+    "question": "Will Example Bank ever ask for my password or PIN?",
+    "answer": "No. Example Bank staff will never ask for your full password, PIN, or one-time verification code by phone, email, text, or social media. If someone asks, do not share it and report the contact to support."
+  },
+  {
+    "question": "I received a call asking for my OTP. Is it genuine?",
+    "answer": "No, do not share it. Example Bank will never ask for your one-time code over the phone. Hang up, then report the call to support through the Help section of the app."
+  },
+  {
+    "question": "How do I order a cheque book?",
+    "answer": "Go to Accounts, select the account, and choose Order Cheque Book. Cheque books are delivered to your registered address within seven business days. A fee may apply."
+  },
+  {
+    "question": "Which branches are open on weekends?",
+    "answer": "Branch hours are listed in the app under Branches, along with the weekend schedule for each location. Hours can change on public holidays."
+  },
+  {
+    "question": "How do I close my account?",
+    "answer": "Go to Profile, then Accounts, and choose Close Account. Make sure the balance is zero and no scheduled payments remain. Closure requests are processed within five business days."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can call our support line 24 hours a day, or use the Help section in the app to start a chat. Support staff will ask you to verify your identity before discussing account details."
+  },
+  {
+    "question": "How do I file a complaint?",
+    "answer": "Go to Help, then Complaints, and describe the issue with any reference numbers. Complaints are acknowledged within two business days, and a final response is usually given within 15 business days."
+  }
+]

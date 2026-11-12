@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Support Chat</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="chat-card">
+    <header class="chat-header">
+      <h1>Support Chat</h1>
+      <p>Ask a question about our services</p>
+    </header>
+
+    <div id="messages" class="messages"></div>
+
+    <div class="suggestions">
+      <button type="button">How do I open an account?</button>
+      <button type="button">How do I reset my password?</button>
+      <button type="button">My card was stolen</button>
+    </div>
+
+    <form id="chat-form" class="input-row">
+      <input id="user-input" type="text" placeholder="Type your question..." autocomplete="off" />
+      <button type="submit">Send</button>
+    </form>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
