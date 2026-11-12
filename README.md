@@ -27,6 +27,7 @@ A web-based FAQ assistant built with Python and Flask. Visitors type a question,
 
 ## Project Structure
 
+```
 faq-chatbot/
 ├── app.py           # Flask server and /chat endpoint
 ├── chatbot.py       # Preprocessing, embeddings, and matching
@@ -36,7 +37,7 @@ faq-chatbot/
     ├── index.html   # Chat page
     ├── style.css    # Chat styling
     └── script.js    # Chat logic in the browser
-
+```
 ## Getting Started
 
 ```bash
